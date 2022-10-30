@@ -1,6 +1,6 @@
 INSERT INTO `items` (name, label, `limit`) VALUES
-	('weed', 'Marihuana', 50),
-	('weed_pooch', 'Pussitettu Marihuana', 10),
+	('weed', 'Kannabis', 50),
+	('weed_pooch', 'Pussitettu Kannabis', 10),
 	('coke', 'Kokaiini', 50),
 	('coke_pooch', 'Pussitettu kokaiini', 10),
 	('meth', 'Meta', 50),
